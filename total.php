@@ -28,6 +28,25 @@ $person = array(
     "email" => "johndoe@example.com"
 );
 
+$person = array(
+    "name" => "John Doe",
+    "age" => 30,
+    "email" => "johndoe@example.com"
+);
+
+$person = array(
+    "name" => "John Doe",
+    "age" => 30,
+    "email" => "johndoe@example.com"
+);
+
+$person = array(
+    "name" => "John Doe",
+    "age" => 30,
+    "email" => "johndoe@example.com"
+);
+
+
 // Display associative array elements
 echo "Person details: \n";
 foreach ($person as $key => $value) {
