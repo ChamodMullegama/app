@@ -25,7 +25,7 @@ echo "The sum of 3 and 4 is: " . $sum . "\n";
 $person = array(
     "name" => "John Doe",
     "age" => 30,
-    "email" => "johndoe@example.com"
+    "Emaiul" => "johndoe@example.com"
 );
 
 $person = array(
