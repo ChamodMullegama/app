@@ -4,7 +4,7 @@ $greeting = "Hello, World!";
 echo $greeting . "\n";
 
 // Define an array
-$fruits = array("Apple", "Banana", "Orange");
+$fruits = array("Apple", "Banana", "jiuter");
 
 // Display the array elements
 echo "Fruits: \n";
